@@ -6,7 +6,7 @@ This project implements a gesture-controlled version of the popular game Hill Cl
 `git clone https://github.com/your-username/gesture-controlled-hill-climb-racing.git`
 
 2. Change into the project directory:
-`cd gesture-controlled-hill-climb-racing`
+`cd Hill-Climb-Gesture-Control`
 
 3. Install the required dependencies using pip:
 `pip install -U -r requirements.txt`
